@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitnessNEW</string>
+    <string name="enter_height_in_cm">Edit</string>
+    <string name="enter_age">Edit</string>
+    <string name="enter_weight_in_kg">Edit</string>
+    <string name="enter_gender">Edit</string>
+</resources>
